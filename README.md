@@ -1,5 +1,7 @@
+                                                Coding Interview Questions     
 # longest-peak
 
+Difficulty: medium
 
   Write a function that takes in an array of integers and returns the length of
   the longest peak in the array. A peak is defined as adjacent integers in the array that are strictly
